@@ -1,0 +1,6 @@
+C:\TRAINING\Disconnected_Console_Dml\DBLibrary\bin\Debug\DBLibrary.dll
+C:\TRAINING\Disconnected_Console_Dml\DBLibrary\bin\Debug\DBLibrary.pdb
+C:\TRAINING\Disconnected_Console_Dml\DBLibrary\obj\Debug\DBLibrary.csproj.AssemblyReference.cache
+C:\TRAINING\Disconnected_Console_Dml\DBLibrary\obj\Debug\DBLibrary.csproj.CoreCompileInputs.cache
+C:\TRAINING\Disconnected_Console_Dml\DBLibrary\obj\Debug\DBLibrary.dll
+C:\TRAINING\Disconnected_Console_Dml\DBLibrary\obj\Debug\DBLibrary.pdb
